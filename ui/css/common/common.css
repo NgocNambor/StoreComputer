@@ -1,0 +1,27 @@
+@import url(button.css);
+@import url(combobox.css);
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Google-San Regular;
+    font-size: 13px;
+}
+
+
+
+
+@font-face {
+    font-family: Google-San Regular;
+    src: url(../../assets/font/GoogleSans-Regular.otf);
+}
+
+@font-face {
+    font-family: Google-San Bold;
+    src: url(../../assets/font/GoogleSans-Bold.otf);
+}
+
+@font-face {
+    font-family: Google-San Italic;
+    src: url(../../assets/font/GoogleSans-Italic.otf);
+}

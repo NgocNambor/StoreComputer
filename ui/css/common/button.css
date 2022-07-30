@@ -1,0 +1,42 @@
+.n-button {
+    height: 40px;
+    border-radius: 4px;
+    font-size: 13px;
+    background-color: #019160;
+    border: none;
+    text-align: center;
+    padding: 0 24px;
+    color: #ffffff;
+    min-width: 100px;
+}
+
+.n-button:hover {
+    background-color: #2FBE8E;
+}
+
+.n-button:active {
+    background-color: #01B075;
+}
+
+.n-button-icon-img{
+    background-image: url(../../assets/icon/duplicate.png);
+    background-position: 16px center;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    padding: 0px 16px 0px 40px;
+}
+.n-button-icon{
+    padding: 0 16px;
+}
+.icon{
+    font-size: 13px;
+    padding-right: 8px;
+}
+
+.n-button-arrow{
+    width: 100%;
+    color: #ffffff;
+    min-width: 40px;
+    width: 40px;
+    padding: 0 12px;
+}
